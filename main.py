@@ -34,5 +34,7 @@ def __main__():
     testTotalCost()
     testWord()
 
+#Test push
+
 if __name__ == "__main__":
     __main__()
